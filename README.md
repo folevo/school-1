@@ -27,3 +27,5 @@ School CRM
 После выполнения задачи необходимо сделать pull-request чтобы изменения появились в основном репозитории
 
 Myskin Dmitry
+
+Siarhei Sharykhin
